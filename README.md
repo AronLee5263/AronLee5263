@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=안녕하세요,%20프론트엔드%20개발자%20이정운입니다.%20👋&fontSize=35)
 
-# 안녕하세요, 프론트엔드 개발자 이정운입니다. 👋
+
 
 ---
 #### 게임처럼 인생에도 분명 공략집이 있다고 생각하고, 그 공략집을 찾아서 인생을 디버깅 하고 있습니다.
@@ -23,7 +23,7 @@
 ### 😉 현재 내가 집중하고 있는것 😉
 
 
-![footer](https://capsule-render.vercel.app/api?type=soft&color=auto&height=50&section=footer&text=)
+
 
 
 <!--
