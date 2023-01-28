@@ -14,7 +14,7 @@
 ---
 - **프롬더레드 유니티 클라이언트 게임 개발 파트** (2021.05 ~ 2022.06)
 - **인하대학교 미래인재 개발원 게임 프로그래밍** (2020.05 ~ 2021.03)
-- 서울기독대학교 사회복지학과 (2013.03 ~ 2017. 08)
+- 서울기독대학교 사회복지학과 (2013.03 ~ 2017. 08)<br> <br>
 
 ### 💻 Tech Stack 💻
 ---
@@ -24,15 +24,18 @@
  
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
 
-<img src="https://img.shields.io/badge/-C%23-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/-C%23-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>   <br> <br>
    
 
 
- 
+
 
 ### 😉 현재 내가 집중하고 있는것 😉
+---
 
-react-native를 활용한 어플개발 - DP
+- **react-native를 활용한 어플 개발**
+
+설명 : [간헐적 단식] ([링크](https://play.google.com/store/apps/details?id=bodyfast.zero.fastingtracker.weightloss&hl=ko&gl=EG))과 같은 알람 어플이고, 근골격계 질환에 많이 노출 되는 현대인들에게 디스크를 호전 시키고 통증을 줄여주도록 도와주는 목적에서 시작했습니다.
 
 
 
