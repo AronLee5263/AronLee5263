@@ -1,5 +1,7 @@
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=JungwoonLee&fontSize=80)
+<!-- ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=JungwoonLee&fontSize=80) -->
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=JungwoonLee&fontSize=100)
+
 
 
 ### 안녕하세요, 프론트엔드 개발자 이정운입니다. 👋
