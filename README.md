@@ -35,7 +35,7 @@
 ### 😉 현재 내가 집중하고 있는것 😉
 ---
 
-- **react-native를 활용한 어플 개발** (2023.04.01 ~ )
+- **react-native를 활용한 어플 개발** (2023.05.01 ~ )
 
 설명 : [간헐적 단식](https://play.google.com/store/apps/details?id=bodyfast.zero.fastingtracker.weightloss&hl=ko&gl=EG) 과 같은 알람 어플이고, 근골격계 질환에 많이 노출 되는 현대인들에게 디스크를 호전 시키고 통증을 줄여주도록 도와주는 목적에서 시작했습니다.
 
