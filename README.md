@@ -1,6 +1,6 @@
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=JungwoonLee&fontSize=80) -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=ffc0cb&height=200&section=header&text=JungwoonLee&fontSize=100&fontColor=e3aeb7a2)
+![header](https://capsule-render.vercel.app/api?type=slice&color=ffc0cb&height=200&section=header&text=JungwoonLee&fontSize=100&fontColor=d7a4ada2)
 
 
 
