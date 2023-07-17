@@ -10,7 +10,15 @@
 
 
 <h3> 프롬더레드  </h3>
-유니티 클라이언트 게임 개발 파트  (2021.05 ~ 2022.06) 
+
+
+<ul> 
+  <li> 유니티 클라이언트 게임 개발 파트  (2021.05 ~ 2022.06) 
+</li>
+   <li>
+c# 과 unity 게임엔진을 활용해 모바일 앱 개발 및 빌드에 기여
+ 
+</li></ul>
 <br><br> 
 
    
@@ -21,19 +29,27 @@
 <h2>프로젝트 </h2> 
 
 
-<h3> - disc doctor </h3>  <p>  </p>
+<h3> - disc doctor </h3>  
 
-react를 활용한 웹 앱 (2023.05.01 ~ 2023.07.10 )
-<h4> </h4>
 
-[간헐적 단식](https://play.google.com/store/apps/details?id=bodyfast.zero.fastingtracker.weightloss&hl=ko&gl=EG) 과 
-근골격계 질환에 많이 노출 되는 현대인들에게 디스크를 호전 시키고 통증을 줄여주도록 도와주는 알람 어플. 
-<ul> <li>
-. firebase와 연동해서 회원가입, 로그인, 로그아웃, crud 기능을 넣었습니다
- 
-</li></ul>
+근골격계 질환에 많이 노출 되는 현대인들에게 디스크를 호전 시키고 통증을 줄여주도록 도와주는 알람 어플.  (2023.05.01 ~ 2023.07.10 ) 
 
-[disc doctor](https://disk-doctor-8c3fc.web.app/)  (해당 링크 클릭시 배포된 결과물을 볼 수 있습니다. )
+
+<ul> 
+  <li> 프론트 - react
+</li>
+
+   <li> 백엔드 -  firebase  </li>
+   <ul> 
+      <li> firebase auth - 회원가입, 로그인, 로그아웃</li>
+   <li> firestore database -  CRUD </li>
+   <li> firebase hosting - 배포 </li>   </ul>   </ul>
+
+
+
+   <ul> <li> [배포링크] (https://disk-doctor-8c3fc.web.app/) </li> </ul>
+   
+
 
 <br/>
 
@@ -60,9 +76,9 @@ react를 활용한 웹 앱 (2023.05.01 ~ 2023.07.10 )
 
 
 <h2> 교육 & 학력 </h2> 
-- **인하대학교 미래인재 개발원 게임 프로그래밍** (2020.05 ~ 2021.03)
+<h4> 인하대학교 미래인재 개발원 게임 프로그래밍 (2020.05 ~ 2021.03)</h4> 
 
-- 서울기독대학교 사회복지학과 (2013.03 ~ 2017. 08)<br> <br>
+<h4> 서울기독대학교 사회복지학과 (2013.03 ~ 2017. 08) </h4><br> <br>
 
 
 <br>
