@@ -3,8 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=ffc0cb&height=200&section=header&text=JungwoonLee&fontSize=100&fontColor=d7a4ada2)
 
 
-
-<h2>  안녕하세요, 프론트엔드 개발자 이정운입니다. 👋 </h2> 
 <h4>   게임처럼 인생에도 분명 공략집이 있다고 생각하고, 그 공략집을 찾아서 인생을 디버깅 하고 있습니다. 👋 </h4> <br> 
 
 
