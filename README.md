@@ -6,26 +6,12 @@
 <h4>   게임처럼 인생에도 분명 공략집이 있다고 생각하고, 그 공략집을 찾아서 인생을 디버깅 하고 있습니다. 👋 </h4> <br> 
 
 
-<h2> Profile </h2> 
+<h2> 경력 </h2> 
 
 
-- **프롬더레드 유니티 클라이언트 게임 개발 파트** (2021.05 ~ 2022.06)
-
-- **인하대학교 미래인재 개발원 게임 프로그래밍** (2020.05 ~ 2021.03)
-
-- 서울기독대학교 사회복지학과 (2013.03 ~ 2017. 08)<br> <br>
-
- 
-<h2> Tech Stack  </h2> 
-
-
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-
- <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/-C%23-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>   <br> <br>
- 
- 
-
-
+<h3> 프롬더레드  </h3>
+유니티 클라이언트 게임 개발 파트  (2021.05 ~ 2022.06) 
+<br><br> 
 
    
 
@@ -60,6 +46,26 @@ react를 활용한 웹 앱 (2023.05.01 ~ 2023.07.10 )
 
 설명 : 사진을 업로드하면 Teachable Machine(AI)으로 분류해 둔 닮은 꼴 이미지의 동물을 찾아주는 어플입니다. 
 
+<br> <br> 
+
+
+
+
+<h2> Tech Stack  </h2> 
+
+
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+
+ <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/-C%23-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>   <br> <br>
+
+
+<h2> 교육 & 학력 </h2> 
+- **인하대학교 미래인재 개발원 게임 프로그래밍** (2020.05 ~ 2021.03)
+
+- 서울기독대학교 사회복지학과 (2013.03 ~ 2017. 08)<br> <br>
+
+
+<br>
 <!--
 **AronLee5263/AronLee5263** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
