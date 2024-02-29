@@ -57,8 +57,6 @@ C# & unity mobile App develop
    
 
 
-<br/>
-
 
 
 <h3> - animal face </h3>
