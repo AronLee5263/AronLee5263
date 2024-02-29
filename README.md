@@ -3,9 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=ffc0cb&height=200&section=header&text=JungwoonLee&fontSize=100&fontColor=d7a4ada2)
 
 
-<h4>   게임처럼 인생에도 분명 공략집이 있다고 생각하고, 그 공략집을 찾아서 인생을 디버깅 하고 있습니다. 👋 </h4> <br> 
-
-
 <h2> Career  </h2> 
 
 <h3> Unidocs  </h3>
@@ -30,7 +27,7 @@ front-end
 c# & unity mobile App develop 
  
 </li></ul>
-<br><br> 
+<br>
 
    
 
@@ -73,7 +70,7 @@ c# & unity mobile App develop
 
 사진을 업로드하면 Teachable Machine(AI)으로 분류해 둔 닮은 꼴 이미지 동물을 찾아주는 어플
 
-<br> <br> 
+<br> 
 
 
 
@@ -93,10 +90,9 @@ c# & unity mobile App develop
 <h2> Education  </h2> 
 <h4> 인하대학교 미래인재 개발원 게임 프로그래밍</h4> 
 
-<h4> 서울기독대학교 사회복지학과  </h4><br> <br>
+<h4> 서울기독대학교 사회복지학과  </h4>
 
 
-<br>
 <!--
 **AronLee5263/AronLee5263** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
