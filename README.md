@@ -5,14 +5,12 @@
 
 <h2> Career  </h2> 
 
-<h3> Unidocs  </h3>
+<h3> Unidocs  </h3> 
 
 
-<ul> 
-  <li>   (2024.01 ~ ) 
-</li>
+
    <li>
-front-end
+front-end    (2024.01 ~ ) 
  
 </li></ul>
 
@@ -24,7 +22,7 @@ front-end
   <li> Unity client game develop part  (2021.05 ~ 2022.06) 
 </li>
    <li>
-c# & unity mobile App develop 
+C# & unity mobile App develop 
  
 </li></ul>
 <br>
