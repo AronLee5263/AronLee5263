@@ -6,28 +6,28 @@
 <h4>   게임처럼 인생에도 분명 공략집이 있다고 생각하고, 그 공략집을 찾아서 인생을 디버깅 하고 있습니다. 👋 </h4> <br> 
 
 
-<h2> 경력 </h2> 
+<h2> Career  </h2> 
 
-<h3> 유니닥스  </h3>
+<h3> Unidocs  </h3>
 
 
 <ul> 
   <li>   (2024.01 ~ ) 
 </li>
    <li>
-프론트엔드 개발 
+front-end
  
 </li></ul>
-<br><br> 
 
-<h3> 프롬더레드  </h3>
+
+<h3> FromTheRed  </h3>
 
 
 <ul> 
-  <li> 유니티 클라이언트 게임 개발 파트  (2021.05 ~ 2022.06) 
+  <li> Unity client game develop part  (2021.05 ~ 2022.06) 
 </li>
    <li>
-c# 과 unity 게임엔진을 활용해 모바일 앱 개발 및 빌드에 기여
+c# & unity mobile App develop 
  
 </li></ul>
 <br><br> 
@@ -37,7 +37,7 @@ c# 과 unity 게임엔진을 활용해 모바일 앱 개발 및 빌드에 기여
 
 
 
-<h2>프로젝트 </h2> 
+<h2>Project </h2> 
 
 
 <h3> - disc doctor </h3>  
@@ -47,10 +47,10 @@ c# 과 unity 게임엔진을 활용해 모바일 앱 개발 및 빌드에 기여
 
 
 <ul> 
-  <li> 프론트 - react
+  <li> front-end - react
 </li>
 
-   <li> 백엔드 -  firebase  </li>
+   <li> backend -  firebase  </li>
    <ul> 
       <li> firebase auth - 회원가입, 로그인, 로그아웃</li>
    <li> firestore database -  CRUD </li>
@@ -58,7 +58,7 @@ c# 과 unity 게임엔진을 활용해 모바일 앱 개발 및 빌드에 기여
 
 
 
-   <ul> <li> [배포링크] (https://disk-doctor-8c3fc.web.app/) </li> </ul>
+   <ul> <li> [deploy Link] (https://disk-doctor-8c3fc.web.app/) </li> </ul>
    
 
 
@@ -90,7 +90,7 @@ c# 과 unity 게임엔진을 활용해 모바일 앱 개발 및 빌드에 기여
  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">    <img src="https://img.shields.io/badge/-C%23-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>   <br> <br>
 
 
-<h2> 교육 & 학력 </h2> 
+<h2> Education  </h2> 
 <h4> 인하대학교 미래인재 개발원 게임 프로그래밍</h4> 
 
 <h4> 서울기독대학교 사회복지학과  </h4><br> <br>
