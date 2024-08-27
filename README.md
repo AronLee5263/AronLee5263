@@ -5,17 +5,17 @@
 
 <h2> Career  </h2> 
 
-<h3> Unidocs  </h3> 
+<h3> Unidocs   </h3>    (2024.01 ~ )
 
-
+ 
 
    <li>
-* front-end    (2024.01 ~ ) 
-- pdf 편집 프로그램 구현(react 로 구현)
-- 행정안전부 공공마이데이터 유통 구축 사업 - 증명서 신청프로세스 화면 설계 및 구현
+ front-end   
+<ul> - pdf 편집 프로그램 구현(react 로 구현)</ul>
+<ul> - 행정안전부 공공마이데이터 유통 구축 사업 - 증명서 신청프로세스 화면 설계 및 구현</ul>
 
 * back-end 
-- spring boot, kotlin 사용해서 rest api server 구축 및 배포
+<ul>- spring boot, kotlin 사용해서 rest api server 구축 및 배포</ul>
  
 </li></ul>
 
