@@ -89,9 +89,8 @@ C# & unity mobile App develop
 
 
 <h2> Education  </h2> 
-<h4> 인하대학교 미래인재 개발원 게임 프로그래밍</h4> 
-
-<h4> 서울기독대학교 사회복지학과  </h4>
+<h4> Inha University  Institute advanced HRD</h4> 
+<h4> Seoul Christian University  </h4>
 
 
 <!--
