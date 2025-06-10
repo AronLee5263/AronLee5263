@@ -89,7 +89,7 @@ C# & unity mobile App develop
 
 
 <h2> Education  </h2> 
-<h4> Inha University  Institute advanced HRD - Department of game programming </h4> 
+<h4> Inha University - Department of game programming </h4> 
 <h4> Seoul Christian University - Department of Social Welfare </h4>
 
 
