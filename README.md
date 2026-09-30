@@ -1,109 +1,104 @@
+# 이정운 · Jungwoon Lee
 
-<!-- ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=JungwoonLee&fontSize=80) -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=ffc0cb&height=200&section=header&text=JungwoonLee&fontSize=100&fontColor=d7a4ada2)
+**Java / Spring 풀스택 개발자**
 
+공공 웹 플랫폼, 인증 REST API, 사용자 편집 도구를 개발합니다.
 
-<h2> Career  </h2> 
+화면부터 서버 로직·DB까지 연결하고, 요구사항 분석부터 테스트·배포·운영 대응까지 책임지는 개발을 지향합니다.
 
-<h3> Unidocs   </h3>    (2024.01 ~ )
+[GitHub](https://github.com/AronLee5263) · [Email](mailto:wjddns5263@gmail.com)
 
- 
+## About
 
-   <li>
- front-end   
-<ul> - pdf 편집 프로그램 구현(react 로 구현)</ul>
-<ul> - 행정안전부 공공마이데이터 유통 구축 사업 - 증명서 신청프로세스 화면 설계 및 구현</ul>
+- 정부24 공공마이데이터 기업포털에서 **관리자 핵심 9개 모듈**을 단독 개발했습니다.
+- 정부24 전자증명서 발급 시스템에 **신규 증명서 10종**의 화면·검증·발급 흐름을 추가했습니다.
+- Kotlin / Spring Boot 인증 API와 React / Tauri 데스크톱 편집 도구를 개발했습니다.
+- 현재 **진도개 혈통관리 시스템 구축에 참여하며 온라인 신청 플랫폼을 개발**하고 있습니다.
 
-* back-end 
-<ul>- spring boot, kotlin 사용해서 rest api server 구축 및 배포</ul>
- 
-</li></ul>
+## Tech Stack
 
+| 분야 | 기술 |
+| --- | --- |
+| Backend | Java, Kotlin, Spring Boot, Spring MVC, 전자정부 표준프레임워크(eGovFramework), MyBatis |
+| Frontend | JavaScript, TypeScript, React, Svelte, JSP, jQuery, HTML, CSS |
+| Database | Oracle, MySQL, MariaDB |
+| Desktop | Tauri |
+| Build & Operations | Gradle, Vite, Jenkins, Ubuntu, Shell, HTTPS |
+| Collaboration | Git, SVN, 코드 리뷰, API 명세·설계 산출물 작성 |
+| Earlier Experience | C#, Unity, Firebase Authentication, Cloud Firestore, Firebase Hosting |
 
-<h3> FromTheRed  </h3>
+## Career
 
+### 유니닥스 · 주임연구원 / 풀스택 엔지니어
 
-<ul> 
-  <li> Unity client game develop part  (2021.05 ~ 2022.06) 
-</li>
-   <li>
-C# & unity mobile App develop 
- 
-</li></ul>
-<br>
+**2024.01 ~ 현재**
 
-   
+#### 진도개 혈통관리 시스템 · 온라인 신청 플랫폼 — 진행 중
 
+- 진도개 혈통관리 업무에 활용되는 온라인 신청 플랫폼 개발.
+- 신청서·설문 서식과 사용자 입력 화면, 관리자 처리 화면 개발 및 연계.
+- 진도군청 포털과 신청 플랫폼 간 iframe 연계 및 token 검증 인터페이스 작업.
+- 반려견 정보 표시·선택 등 신청 화면의 재사용 컴포넌트와 외부 데이터 연동 구조 구현.
+- **기술:** Java, Spring Boot, MyBatis, MariaDB, Svelte, TypeScript, Vite, Gradle
 
+#### 정부24 · 공공마이데이터 기업포털 신규 구축
 
+**2025.03 ~ 2026.02**
 
-<h2>Project </h2> 
+- 관리자 포털 **핵심 9개 모듈**을 요구사항 분석 → 설계 → 구현 → 테스트까지 단독 개발.
+- JSP 화면, Spring MVC 비즈니스 로직, Oracle 테이블·MyBatis SQL을 직접 설계하고 구현.
+- 모듈당 평균 **6~7일**의 분석·개발·테스트 사이클로 납기 준수.
+- 운영 배포, 감리 피드백, 보안 취약점·웹표준·접근성 조치 및 오픈 후 안정화 대응.
+- 폐쇄망 환경에서 레거시 코드와 내부 문서를 분석해 **3개월 내 단독 개발 수준**으로 적응.
+- **기술:** Java, Spring MVC, eGovFramework, JSP, JavaScript, MyBatis, Oracle, Jenkins, SVN
 
+#### 정부24 · 전자증명서 신규 증명서 추가
 
-<h3> - disc doctor </h3>  
+**2024.05 ~ 2025.01**
 
+- 기존 **100종 이상**의 전자증명서 발급 시스템을 분석하고 **신규 증명서 10종** 추가.
+- 기존 UI·검증 규칙에 맞춰 신청·조회·발급 화면과 서버 로직 구현.
+- 문서종류 코드·마스터 데이터 정합성 점검, 설계 산출물 현행화 및 테스트·배포 대응.
+- **기술:** Java, Spring MVC, JSP, JavaScript, Oracle, Jenkins, SVN
 
-근골격계 질환에 많이 노출 되는 현대인들에게 디스크를 호전 시키고 통증을 줄여주도록 도와주는 알람 어플.  (2023.05.11 ~ 2023.07.10 ) 
+#### 보이는 텔레마케팅 서비스 · 인증 REST API 서버
 
+**2024.03 ~ 2024.05**
 
-<ul> 
-  <li> front-end - react
-</li>
+- 라이선스 그룹 등록, 호스트 추가·조회, 비밀번호 변경, 라이선스 파일 다운로드 등 **9~10개 엔드포인트** 구현.
+- API 명세·테스트케이스 작성, Ubuntu 배포, HTTPS 인증서 적용 및 배포 자동화 스크립트 작성.
+- **기술:** Kotlin, Spring Boot, MySQL, Ubuntu, Shell, Git
 
-   <li> backend -  firebase  </li>
-   <ul> 
-      <li> firebase auth - 회원가입, 로그인, 로그아웃</li>
-   <li> firestore database -  CRUD </li>
-   <li> firebase hosting - 배포 </li>   </ul>   </ul>
+#### AI 교과서 · 문제 영역 편집 데스크톱 도구
 
+**2024.01 ~ 2024.03**
 
+- 문제 영역 감지 결과(JSON)를 화면에 시각화하고 이동·크기 조절 후 JSON으로 저장하는 편집 흐름 구현.
+- Tauri 패키징, custom CLI 파라미터 처리, 사용자 매뉴얼 작성 및 코드 리뷰 기반 리팩토링.
+- **기술:** React, JavaScript, TypeScript, Tauri, Git
 
-   <ul> <li> [deploy Link] (https://disk-doctor-8c3fc.web.app/) </li> </ul>
-   
+### 프롬더레드 · Unity 클라이언트 개발자
 
+**2021.05 ~ 2022.07**
 
+- 하이퍼 캐주얼·맞고 게임 UI와 클라이언트 로직 개발.
+- **기술:** C#, Unity
 
+## Personal Projects
 
-<h3> - animal face </h3>
+### [Disc Doctor](https://github.com/AronLee5263/disc-doctor)
 
+**2023.05 ~ 2023.07** · React / Firebase
 
-- **닮은 동물상 찾아주는 어플 클론코딩** (2022.12.01 ~ 2023.01.11 )
+생활 습관 개선과 알림을 돕는 웹 앱. 회원가입·로그인·로그아웃, Firestore CRUD 및 Firebase Hosting 배포 구현.
 
-사진을 업로드하면 Teachable Machine(AI)으로 분류해 둔 닮은 꼴 이미지 동물을 찾아주는 어플
+### [Animal Face](https://github.com/AronLee5263/AwesomeProject-0534)
 
-<br> 
+**2022.12 ~ 2023.01** · Teachable Machine 기반 클론 프로젝트
 
+업로드한 사진을 분류해 닮은 동물상을 보여주는 앱.
 
+## Education
 
-
-<h2> Tech Stack  </h2> 
-
-
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">   
-
-
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=black"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-4479A1?style=for-the-badge&logo=Docker&logoColor=white"/>
-
-
- <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">    <img src="https://img.shields.io/badge/-C%23-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>   <br> <br>
-
-
-<h2> Education  </h2> 
-<h4> Inha University - Department of game programming </h4> 
-<h4> Seoul Christian University - Department of Social Welfare </h4>
-
-
-<!--
-**AronLee5263/AronLee5263** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **인하대학교 미래인재개발원** · 게임 프로그래밍 과정 수료 (2020.03 ~ 2021.04)
+- **서울기독대학교** · 사회복지학과 중퇴 (2014.03 ~ 2017.07)
