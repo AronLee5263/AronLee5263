@@ -74,10 +74,10 @@ AI가 감지한 문제 영역을 사용자가 수정하고 저장할 수 있는 
 | 분야 | 기술 |
 | :--- | :--- |
 | Backend | Java, Kotlin, Spring Boot, Spring MVC, eGovFramework, MyBatis |
-| Frontend | React, Svelte, JavaScript, TypeScript, JSP, jQuery, HTML, CSS |
+| Frontend | React, Vue Svelte, JavaScript, TypeScript, JSP, jQuery, HTML, CSS |
 | Database | Oracle, MySQL, MariaDB |
 | Desktop & Build | Tauri, Gradle, Vite |
-| Operations & Collaboration | Ubuntu, Shell, HTTPS, Jenkins, Git, SVN |
+| Operations & Collaboration | Docker, Ubuntu, Shell, HTTPS, Jenkins, Git, SVN |
 
 ## Beyond Work
 
