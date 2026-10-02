@@ -65,6 +65,8 @@ AI가 감지한 문제 영역을 사용자가 수정하고 저장할 수 있는 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![vue](https://img.shields.io/badge/vue-20232A?style=flat-square&logo=vue&logoColor=61DAFB)
+![docker](https://img.shields.io/badge/docker-20232A?style=flat-square&logo=docker&logoColor=61DAFB)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
